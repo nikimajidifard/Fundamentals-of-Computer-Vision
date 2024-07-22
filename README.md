@@ -2,7 +2,7 @@
 fundamentals of computer vision homework - Spring 2023
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homework Descriptions
-### HW1
+### HW0
 - Description: This is an exercise for getting familiar with OpenCV, NumPy, and Matplotlib. It includes tasks such as reading an image, displaying an image, converting an image to grayscale, and performing pixel calculations. Additionally, it contains exercises on matrix operations using NumPy.
 - [Link to HW0](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW0)
 ### HW4
