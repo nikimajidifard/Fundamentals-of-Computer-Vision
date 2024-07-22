@@ -1,7 +1,7 @@
 # fundamentals-of-computer-vision
 fundamentals of computer vision homeworks - Spring 2023
 
-## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks' Description
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homework Descriptions
 ### HW4
 - Description: This assignment, covers theorical questions such as Otsu’s algorithm explanation, morphology concepts like segmentation using structural elements, application of erosion, dilation, opening, closing and miss or hit operator. With a practical question in implementing base morphological operators, Extracting image skeletons and detecting edges.
 - Answers: [Link to HW4](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW4)
