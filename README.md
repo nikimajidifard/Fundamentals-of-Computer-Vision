@@ -5,6 +5,11 @@ fundamentals of computer vision homework - Spring 2023
 ### HW0
 - Description: This is an exercise for getting familiar with OpenCV, NumPy, and Matplotlib. It includes tasks such as reading an image, displaying an image, converting an image to grayscale, and performing pixel calculations. Additionally, it contains exercises on matrix operations using NumPy.
 - [Link to HW0](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW0)
+
+- ### HW1
+- Description: In this exercise, topics such as shutter, lens, focal length, and image type are discussed. It also involves calculating histograms, practically implementing histogram stretching, and performing histogram matching.
+- [Link to HW1](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW1)
+
 ### HW4
 - Description: This assignment, covers theorical questions such as Otsu’s algorithm explanation, morphology concepts like segmentation using structural elements, application of erosion, dilation, opening, closing and miss or hit operator. With a practical question in implementing base morphological operators, Extracting image skeletons and detecting edges.
 - [Link to HW4](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW4)
