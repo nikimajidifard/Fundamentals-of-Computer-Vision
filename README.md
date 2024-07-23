@@ -23,12 +23,12 @@ fundamentals of computer vision homework - Spring 2023
 ### HW2
 - Description: This exercise includes practical tasks and implementations on topics such as the Sobel operator, gradient direction measurement, Gaussian filtering, noise removal from images, Canny edge detection, and theoretical topics such as low-pass and high-pass filtering, additive and multiplicative noise, salt-and-pepper noise, and Fourier transform calculations.
 - [Link to HW2](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW2)
+  
   <img src="https://github.com/user-attachments/assets/ca5e2fd3-ec71-47ff-9046-bc55136c729a" width="300" height="200"/>
   <img src="https://github.com/user-attachments/assets/4552a267-87b0-4ea2-9e8e-22db23b97a86" width="300" height="200"/>
+
   <img src="https://github.com/user-attachments/assets/15a16930-181a-4d09-968f-b02c35d298e1" width="300" height="200"/>
-  <img src="https://github.com/user-attachments/assets/15a16930-181a-4d09-968f-b02c35d298e1" width="200" height="200"/>
   <img src="https://github.com/user-attachments/assets/14cf7dc9-f529-4752-8e9a-e2678b786efd" width="200" height="200"/>
-  <img src="https://github.com/user-attachments/assets/336c6177-880d-49b4-b644-682a8daea58d" width="200" height="200"/>
   <img src="https://github.com/user-attachments/assets/336c6177-880d-49b4-b644-682a8daea58d" width="200" height="200"/>
 
   <img src="https://github.com/user-attachments/assets/7c3bd6da-3734-4f1c-8f8d-23eb05d6f821" width="200" height="200"/>
