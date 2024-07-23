@@ -15,6 +15,7 @@ fundamentals of computer vision homework - Spring 2023
 - [Link to HW1](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW1)
   
   <img src="https://github.com/user-attachments/assets/5ac3944e-798e-4a1f-924d-db77e6a8caa6" width="450" height="150"/>
+  <p></p>
   <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="450" height="150"/>
   <p></p>
   <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="150" height="150"/>
