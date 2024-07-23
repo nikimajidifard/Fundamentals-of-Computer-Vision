@@ -23,6 +23,14 @@ fundamentals of computer vision homework - Spring 2023
 ### HW2
 - Description: This exercise includes practical tasks and implementations on topics such as the Sobel operator, gradient direction measurement, Gaussian filtering, noise removal from images, Canny edge detection, and theoretical topics such as low-pass and high-pass filtering, additive and multiplicative noise, salt-and-pepper noise, and Fourier transform calculations.
 - [Link to HW2](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW2)
+  <img src="https://github.com/user-attachments/assets/ca5e2fd3-ec71-47ff-9046-bc55136c729a" width="300" height="200"/>
+  <img src="https://github.com/user-attachments/assets/4552a267-87b0-4ea2-9e8e-22db23b97a86" width="300" height="200"/>
+  
+
+
+  
+  
+
 
 ### HW3
 - Description: This exercise includes familiarization, comparison, and conversion between color spaces such as RGB, CMYK, HSV, and YCbCr, as well as practically displaying images in separate color channels. It also covers practical implementations for creating panorama images, placing masks on faces using landmarks (with the dlib library), scanning a photo like Camscanner (including conversion to grayscale, noise reduction, edge detection, image boundary detection, and background removal), implementing Harris corner detection, and discussing three methods—ORB, SURF, and SIFT—for keypoint extraction.
