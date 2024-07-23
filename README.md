@@ -6,21 +6,21 @@ fundamentals of computer vision homework - Spring 2023
 - Description: This is an exercise for getting familiar with OpenCV, NumPy, and Matplotlib. It includes tasks such as reading an image, displaying an image, converting an image to grayscale, and performing pixel calculations. Additionally, it contains exercises on matrix operations using NumPy.
 - [Link to HW0](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW0)
   
-  <img src="https://github.com/user-attachments/assets/3496a81c-3af6-46be-bc61-8316b07b3580" width="150" height="150"/>
-  <img src="https://github.com/user-attachments/assets/057abdad-62ea-4662-9e07-95584067833c" width="150" height="150"/>
-  <img src="https://github.com/user-attachments/assets/fbc0f8f1-f97b-4d81-84fa-2921a1f2160e" width="150" height="150"/>
+  <img src="https://github.com/user-attachments/assets/3496a81c-3af6-46be-bc61-8316b07b3580" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/057abdad-62ea-4662-9e07-95584067833c" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/fbc0f8f1-f97b-4d81-84fa-2921a1f2160e" width="200" height="150"/>
 
 ### HW1
 - Description: In this exercise, topics such as shutter, lens, focal length, and image type are discussed. It also involves calculating histograms, practically implementing histogram stretching, and performing histogram matching.
 - [Link to HW1](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW1)
   
-  <img src="https://github.com/user-attachments/assets/5ac3944e-798e-4a1f-924d-db77e6a8caa6" width="450" height="150"/>
+  <img src="https://github.com/user-attachments/assets/5ac3944e-798e-4a1f-924d-db77e6a8caa6" width="600" height="150"/>
   <p></p>
-  <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="450" height="150"/>
+  <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="600" height="150"/>
   <p></p>
-  <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="150" height="150"/>
-  <img src="https://github.com/user-attachments/assets/e5a507f4-e06a-463b-8943-cc60ac9d6e42" width="150" height="150"/>
-  <img src="https://github.com/user-attachments/assets/882990f7-b898-4de8-970e-72632168d503" width="150" height="150"/>
+  <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/e5a507f4-e06a-463b-8943-cc60ac9d6e42" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/882990f7-b898-4de8-970e-72632168d503" width="200" height="150"/>
   
 ### HW2
 - Description: This exercise includes practical tasks and implementations on topics such as the Sobel operator, gradient direction measurement, Gaussian filtering, noise removal from images, Canny edge detection, and theoretical topics such as low-pass and high-pass filtering, additive and multiplicative noise, salt-and-pepper noise, and Fourier transform calculations.
@@ -29,9 +29,9 @@ fundamentals of computer vision homework - Spring 2023
   <img src="https://github.com/user-attachments/assets/ca5e2fd3-ec71-47ff-9046-bc55136c729a" width="300" height="150"/>
   <img src="https://github.com/user-attachments/assets/4552a267-87b0-4ea2-9e8e-22db23b97a86" width="300" height="150"/>
   <p></p>
-  <img src="https://github.com/user-attachments/assets/15a16930-181a-4d09-968f-b02c35d298e1" width="100" height="150"/>
-  <img src="https://github.com/user-attachments/assets/14cf7dc9-f529-4752-8e9a-e2678b786efd" width="100" height="150"/>
-  <img src="https://github.com/user-attachments/assets/336c6177-880d-49b4-b644-682a8daea58d" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/15a16930-181a-4d09-968f-b02c35d298e1" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/14cf7dc9-f529-4752-8e9a-e2678b786efd" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/336c6177-880d-49b4-b644-682a8daea58d" width="200" height="150"/>
   <p></p>
   <img src="https://github.com/user-attachments/assets/ace7ef90-3e6b-41ff-ade6-bfc95318ba5e" width="150" height="150"/>
   <img src="https://github.com/user-attachments/assets/5915fc1c-272e-4f28-9174-8ddbed3b6825" width="150" height="150"/>
