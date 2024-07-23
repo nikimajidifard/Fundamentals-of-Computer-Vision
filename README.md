@@ -49,12 +49,24 @@ fundamentals of computer vision homework - Spring 2023
   <p></p>
   <img src="https://github.com/user-attachments/assets/550f5236-740e-44e6-a67e-91c8d8fbef42" width="500" height="100"/>
   <img src="https://github.com/user-attachments/assets/8d1cb3d0-cf5c-498c-acd8-8667166bd73b" width="100" height="100"/>
-  <p></p>
+  
 
 
 ### HW4
 - Description: This assignment, covers theorical questions such as Otsu’s algorithm explanation, morphology concepts like segmentation using structural elements, application of erosion, dilation, opening, closing and miss or hit operator. With a practical question in implementing base morphological operators, Extracting image skeletons and detecting edges.
 - [Link to HW4](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW4)
+  <img src="https://github.com/user-attachments/assets/558ebcb8-ca25-45d9-bd91-6864d7ed87a5" width="300" height="150"/>
+  <img src="https://github.com/user-attachments/assets/5685f456-5af6-45da-b47f-9370c4ae7d02" width="300" height="150"/>
+  <p></p>
+  <img src="https://github.com/user-attachments/assets/946e1e53-80a2-471d-8a99-269db54c0b51" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/0a79e665-736c-4c6b-bf06-801865010fb6" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/686a88c8-3f83-48ac-a6a6-218e52f8e522" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/1bc13acb-5f3d-4115-a833-2f07303bef64" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/2956a76c-2cc7-4d5e-89e8-993265d6569e" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/8992c958-5d17-40ad-b4f8-7c5b41c80fdc" width="100" height="150"/>
+  <img src="https://github.com/user-attachments/assets/b7019740-31ad-459b-9dfc-15ebced7c27b" width="100" height="150"/>
+  
+
 
 ### HW5
 - Description: This homework covers topics like Local Binary Patterns (LBP) ,shape descriptors ,base deep learning concepts such as activation function differences and CNN-based features,  training and analyzing image classification with simple network in TensorFlow and Keras using the MNIST dataset in both sequential and functional approaches. 
