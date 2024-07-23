@@ -14,11 +14,11 @@ fundamentals of computer vision homework - Spring 2023
 - Description: In this exercise, topics such as shutter, lens, focal length, and image type are discussed. It also involves calculating histograms, practically implementing histogram stretching, and performing histogram matching.
 - [Link to HW1](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW1)
   
-  <img src="https://github.com/user-attachments/assets/5ac3944e-798e-4a1f-924d-db77e6a8caa6" width="600" height="200"/>
-  <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="600" height="200"/>
-  <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="200" height="200"/>
-  <img src="https://github.com/user-attachments/assets/e5a507f4-e06a-463b-8943-cc60ac9d6e42" width="200" height="200"/>
-  <img src="https://github.com/user-attachments/assets/882990f7-b898-4de8-970e-72632168d503" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/5ac3944e-798e-4a1f-924d-db77e6a8caa6" width="600" height="150"/>
+  <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="600" height="150"/>
+  <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/e5a507f4-e06a-463b-8943-cc60ac9d6e42" width="200" height="150"/>
+  <img src="https://github.com/user-attachments/assets/882990f7-b898-4de8-970e-72632168d503" width="200" height="150"/>
   
 ### HW2
 - Description: This exercise includes practical tasks and implementations on topics such as the Sobel operator, gradient direction measurement, Gaussian filtering, noise removal from images, Canny edge detection, and theoretical topics such as low-pass and high-pass filtering, additive and multiplicative noise, salt-and-pepper noise, and Fourier transform calculations.
