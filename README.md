@@ -18,8 +18,8 @@ fundamentals of computer vision homework - Spring 2023
   <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="600" height="200"/>
   <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="200" height="200"/>
 
-  <img src="https://github.com/user-attachments/assets/cdf1ce92-4074-4593-a2ae-7eb37925f655" width="200" height="200"/>
-  <img src="https://github.com/user-attachments/assets/a7ce5bc8-2447-47c1-aa69-c08a9f1b8fed" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/e5a507f4-e06a-463b-8943-cc60ac9d6e42" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/882990f7-b898-4de8-970e-72632168d503" width="200" height="200"/>
   
 ### HW2
 - Description: This exercise includes practical tasks and implementations on topics such as the Sobel operator, gradient direction measurement, Gaussian filtering, noise removal from images, Canny edge detection, and theoretical topics such as low-pass and high-pass filtering, additive and multiplicative noise, salt-and-pepper noise, and Fourier transform calculations.
