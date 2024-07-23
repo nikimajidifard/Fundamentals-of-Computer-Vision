@@ -5,9 +5,9 @@ fundamentals of computer vision homework - Spring 2023
 ### HW0
 - Description: This is an exercise for getting familiar with OpenCV, NumPy, and Matplotlib. It includes tasks such as reading an image, displaying an image, converting an image to grayscale, and performing pixel calculations. Additionally, it contains exercises on matrix operations using NumPy.
 
-- <img src="![Screenshot 2024-07-23 141206](https://github.com/user-attachments/assets/03b1a11f-d3f4-4863-8956-cb9c8061251a)![Screenshot 2024-07-23 141446](https://github.com/user-attachments/assets/c57bad17-f2f9-4d55-8aa0-a45c25a1044d)![Screenshot 2024-07-23 141457](https://github.com/user-attachments/assets/3496a81c-3af6-46be-bc61-8316b07b3580)" width="100" height="100"/>
+<img src="![Screenshot 2024-07-23 141206](https://github.com/user-attachments/assets/03b1a11f-d3f4-4863-8956-cb9c8061251a)" width="100" height="100"/>
 
-
+![Screenshot 2024-07-23 141206](https://github.com/user-attachments/assets/03b1a11f-d3f4-4863-8956-cb9c8061251a)![Screenshot 2024-07-23 141446](https://github.com/user-attachments/assets/c57bad17-f2f9-4d55-8aa0-a45c25a1044d)![Screenshot 2024-07-23 141457](https://github.com/user-attachments/assets/3496a81c-3af6-46be-bc61-8316b07b3580)
 
 - [Link to HW0](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW0)
 
