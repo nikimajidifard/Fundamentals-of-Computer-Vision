@@ -16,6 +16,7 @@ fundamentals of computer vision homework - Spring 2023
   
   <img src="https://github.com/user-attachments/assets/5ac3944e-798e-4a1f-924d-db77e6a8caa6" width="552" height="150"/>
   <img src="https://github.com/user-attachments/assets/8f5c2f64-7dc5-4524-b67f-1bf5a28b4a68" width="550" height="150"/>
+  <p></p>
   <img src="https://github.com/user-attachments/assets/95d7ea5e-f4f1-4c3c-8468-4051024dba25" width="184" height="150"/>
   <img src="https://github.com/user-attachments/assets/e5a507f4-e06a-463b-8943-cc60ac9d6e42" width="184" height="150"/>
   <img src="https://github.com/user-attachments/assets/882990f7-b898-4de8-970e-72632168d503" width="184" height="150"/>
