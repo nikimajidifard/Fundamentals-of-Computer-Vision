@@ -42,9 +42,8 @@ fundamentals of computer vision homework - Spring 2023
 - Description: This exercise includes familiarization, comparison, and conversion between color spaces such as RGB, CMYK, HSV, and YCbCr, as well as practically displaying images in separate color channels. It also covers practical implementations for creating panorama images, placing masks on faces using landmarks (with the dlib library), scanning a photo like Camscanner (including conversion to grayscale, noise reduction, edge detection, image boundary detection, and background removal), implementing Harris corner detection, and discussing three methods—ORB, SURF, and SIFT—for keypoint extraction.
 - [Link to HW3](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW3)
 
-
-  <img src="https://github.com/user-attachments/assets/272945eb-c5c8-4661-9acb-a9e197a3c33a" width="225" height="150"/>
-  <img src="https://github.com/user-attachments/assets/003839bf-0856-43d1-9fda-cb62fc40b025" width="225" height="150"/>
+  <img src="https://github.com/user-attachments/assets/4ef1580b-2e9b-42a0-8d4b-dc7dbf0e0a64" width="225" height="150"/>
+  <img src="https://github.com/user-attachments/assets/f24067d9-680f-48be-8482-8ffe974b87d7" width="225" height="150"/>
   <p></p>
   <img src="https://github.com/user-attachments/assets/133a9d2b-3f7b-444e-aec6-8da104ef5b96" width="450" height="150"/>
   <p></p>
