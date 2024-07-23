@@ -4,10 +4,10 @@ fundamentals of computer vision homework - Spring 2023
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homework Descriptions
 ### HW0
 - Description: This is an exercise for getting familiar with OpenCV, NumPy, and Matplotlib. It includes tasks such as reading an image, displaying an image, converting an image to grayscale, and performing pixel calculations. Additionally, it contains exercises on matrix operations using NumPy.
+
+![Screenshot 2024-07-23 141206](https://github.com/user-attachments/assets/03b1a11f-d3f4-4863-8956-cb9c8061251a)![Screenshot 2024-07-23 141446](https://github.com/user-attachments/assets/c57bad17-f2f9-4d55-8aa0-a45c25a1044d)![Screenshot 2024-07-23 141457](https://github.com/user-attachments/assets/3496a81c-3af6-46be-bc61-8316b07b3580)
+
 - [Link to HW0](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW0)
-![Screenshot 2024-07-23 141206](https://github.com/user-attachments/assets/03b1a11f-d3f4-4863-8956-cb9c8061251a)
-![Screenshot 2024-07-23 141446](https://github.com/user-attachments/assets/c57bad17-f2f9-4d55-8aa0-a45c25a1044d)
-![Screenshot 2024-07-23 141457](https://github.com/user-attachments/assets/3496a81c-3af6-46be-bc61-8316b07b3580)
 
 ### HW1
 - Description: In this exercise, topics such as shutter, lens, focal length, and image type are discussed. It also involves calculating histograms, practically implementing histogram stretching, and performing histogram matching.
