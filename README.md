@@ -29,9 +29,22 @@ fundamentals of computer vision homework - Spring 2023
   <img src="https://github.com/user-attachments/assets/15a16930-181a-4d09-968f-b02c35d298e1" width="200" height="200"/>
   <img src="https://github.com/user-attachments/assets/14cf7dc9-f529-4752-8e9a-e2678b786efd" width="200" height="200"/>
   <img src="https://github.com/user-attachments/assets/336c6177-880d-49b4-b644-682a8daea58d" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/336c6177-880d-49b4-b644-682a8daea58d" width="200" height="200"/>
+
+  <img src="https://github.com/user-attachments/assets/7c3bd6da-3734-4f1c-8f8d-23eb05d6f821" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/5332c35c-8a82-47ee-8edf-b879df3f0641" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/5915fc1c-272e-4f28-9174-8ddbed3b6825" width="200" height="200"/>
+  <img src="https://github.com/user-attachments/assets/ace7ef90-3e6b-41ff-ade6-bfc95318ba5e" width="200" height="200"/>
+ 
+  
 ### HW3
 - Description: This exercise includes familiarization, comparison, and conversion between color spaces such as RGB, CMYK, HSV, and YCbCr, as well as practically displaying images in separate color channels. It also covers practical implementations for creating panorama images, placing masks on faces using landmarks (with the dlib library), scanning a photo like Camscanner (including conversion to grayscale, noise reduction, edge detection, image boundary detection, and background removal), implementing Harris corner detection, and discussing three methods—ORB, SURF, and SIFT—for keypoint extraction.
 - [Link to HW3](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW3)
+
+
+
+
+
 
 ### HW4
 - Description: This assignment, covers theorical questions such as Otsu’s algorithm explanation, morphology concepts like segmentation using structural elements, application of erosion, dilation, opening, closing and miss or hit operator. With a practical question in implementing base morphological operators, Extracting image skeletons and detecting edges.
