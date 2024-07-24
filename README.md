@@ -79,6 +79,7 @@ fundamentals of computer vision homework - Spring 2023
 ### HW6
 - Description: This homework involves exploring theoretical concepts in computer vision and deep learning, such as explanation core topics in CNNs and operational mechanisms, gradient issues, parameter calculations, as well a practical tasks like training convolutional networks on the CIFAR10 dataset, applying data augmentation, comparing results using transfer learning with ResNet50, and implementing semantic segmentation using advanced Keras functionalities.
 - [Link to HW6](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW6)
+  
   a
   <img src="https://github.com/user-attachments/assets/e532f8f6-9fd6-4851-bfab-be81617e8b79" width="150" height="100"/>
   b
