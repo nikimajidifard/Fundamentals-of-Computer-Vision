@@ -59,13 +59,13 @@ fundamentals of computer vision homework - Spring 2023
   <img src="https://github.com/user-attachments/assets/558ebcb8-ca25-45d9-bd91-6864d7ed87a5" width="300" height="150"/>
   <img src="https://github.com/user-attachments/assets/5685f456-5af6-45da-b47f-9370c4ae7d02" width="300" height="150"/>
   <p></p>
-  <img src="https://github.com/user-attachments/assets/946e1e53-80a2-471d-8a99-269db54c0b51" width="85" height="150"/>
-  <img src="https://github.com/user-attachments/assets/0a79e665-736c-4c6b-bf06-801865010fb6" width="85" height="150"/>
-  <img src="https://github.com/user-attachments/assets/686a88c8-3f83-48ac-a6a6-218e52f8e522" width="85" height="150"/>
-  <img src="https://github.com/user-attachments/assets/1bc13acb-5f3d-4115-a833-2f07303bef64" width="85" height="150"/>
-  <img src="https://github.com/user-attachments/assets/2956a76c-2cc7-4d5e-89e8-993265d6569e" width="85" height="150"/>
-  <img src="https://github.com/user-attachments/assets/8992c958-5d17-40ad-b4f8-7c5b41c80fdc" width="86" height="150"/>
-  <img src="https://github.com/user-attachments/assets/b7019740-31ad-459b-9dfc-15ebced7c27b" width="86" height="150"/>
+  <img src="https://github.com/user-attachments/assets/946e1e53-80a2-471d-8a99-269db54c0b51" width="85" height="100"/>
+  <img src="https://github.com/user-attachments/assets/0a79e665-736c-4c6b-bf06-801865010fb6" width="85" height="100"/>
+  <img src="https://github.com/user-attachments/assets/686a88c8-3f83-48ac-a6a6-218e52f8e522" width="85" height="100"/>
+  <img src="https://github.com/user-attachments/assets/1bc13acb-5f3d-4115-a833-2f07303bef64" width="85" height="100"/>
+  <img src="https://github.com/user-attachments/assets/2956a76c-2cc7-4d5e-89e8-993265d6569e" width="85" height="100"/>
+  <img src="https://github.com/user-attachments/assets/8992c958-5d17-40ad-b4f8-7c5b41c80fdc" width="86" height="100"/>
+  <img src="https://github.com/user-attachments/assets/b7019740-31ad-459b-9dfc-15ebced7c27b" width="86" height="100"/>
   
 
 
