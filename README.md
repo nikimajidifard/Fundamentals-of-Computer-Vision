@@ -62,9 +62,7 @@ fundamentals of computer vision homework - Spring 2023
   <img src="https://github.com/user-attachments/assets/946e1e53-80a2-471d-8a99-269db54c0b51" width="150" height="150"/>
   <img src="https://github.com/user-attachments/assets/0a79e665-736c-4c6b-bf06-801865010fb6" width="150" height="150"/>
   <img src="https://github.com/user-attachments/assets/686a88c8-3f83-48ac-a6a6-218e52f8e522" width="150" height="150"/>
-  <img src="https://github.com/user-attachments/assets/1bc13acb-5f3d-4115-a833-2f07303bef64" width="150" height="150"/>
   <img src="https://github.com/user-attachments/assets/2956a76c-2cc7-4d5e-89e8-993265d6569e" width="150" height="150"/>
-  <img src="https://github.com/user-attachments/assets/8992c958-5d17-40ad-b4f8-7c5b41c80fdc" width="150" height="150"/>
   <img src="https://github.com/user-attachments/assets/b7019740-31ad-459b-9dfc-15ebced7c27b" width="150" height="150"/>
   
 
@@ -81,6 +79,19 @@ fundamentals of computer vision homework - Spring 2023
 ### HW6
 - Description: This homework involves exploring theoretical concepts in computer vision and deep learning, such as explanation core topics in CNNs and operational mechanisms, gradient issues, parameter calculations, as well a practical tasks like training convolutional networks on the CIFAR10 dataset, applying data augmentation, comparing results using transfer learning with ResNet50, and implementing semantic segmentation using advanced Keras functionalities.
 - [Link to HW6](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW6)
+  a
+  <img src="https://github.com/user-attachments/assets/e532f8f6-9fd6-4851-bfab-be81617e8b79" width="150" height="100"/>
+  b
+  <img src="https://github.com/user-attachments/assets/9dbe99b3-3108-42bb-b78d-d597ee257bb4" width="150" height="100"/>
+  c
+  <img src="https://github.com/user-attachments/assets/c5100a9f-8303-49e7-ba8b-28db32715395" width="150" height="100"/>
+  d
+  <img src="https://github.com/user-attachments/assets/aca7467b-025e-495c-b7b4-3549f1304873" width="150" height="100"/>
+
+
+
+
+
 
 
 
