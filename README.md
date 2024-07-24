@@ -56,8 +56,8 @@ fundamentals of computer vision homework - Spring 2023
 - Description: This assignment, covers theorical questions such as Otsu’s algorithm explanation, morphology concepts like segmentation using structural elements, application of erosion, dilation, opening, closing and miss or hit operator. With a practical question in implementing base morphological operators, Extracting image skeletons and detecting edges.
 - [Link to HW4](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW4)
 - 
-  <img src="https://github.com/user-attachments/assets/558ebcb8-ca25-45d9-bd91-6864d7ed87a5" width="200" height="100"/>
-  <img src="https://github.com/user-attachments/assets/5685f456-5af6-45da-b47f-9370c4ae7d02" width="200" height="100"/>
+  <img src="https://github.com/user-attachments/assets/558ebcb8-ca25-45d9-bd91-6864d7ed87a5" width="150" height="100"/>
+  <img src="https://github.com/user-attachments/assets/5685f456-5af6-45da-b47f-9370c4ae7d02" width="150" height="100"/>
   <p></p>
   <img src="https://github.com/user-attachments/assets/946e1e53-80a2-471d-8a99-269db54c0b51" width="150" height="150"/>
   <img src="https://github.com/user-attachments/assets/0a79e665-736c-4c6b-bf06-801865010fb6" width="150" height="150"/>
@@ -68,10 +68,14 @@ fundamentals of computer vision homework - Spring 2023
   <img src="https://github.com/user-attachments/assets/b7019740-31ad-459b-9dfc-15ebced7c27b" width="150" height="150"/>
   
 
-
 ### HW5
 - Description: This homework covers topics like Local Binary Patterns (LBP) ,shape descriptors ,base deep learning concepts such as activation function differences and CNN-based features,  training and analyzing image classification with simple network in TensorFlow and Keras using the MNIST dataset in both sequential and functional approaches. 
 - [Link to HW5](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW5)
+  <img src="https://github.com/user-attachments/assets/97315af7-9500-46f0-a17b-31e56e03dc31" width="150" height="100"/>
+  <img src="https://github.com/user-attachments/assets/1c484b2a-b6a9-45f4-8af6-97893fa45d06" width="150" height="100"/>
+  <p></p>
+  <img src="https://github.com/user-attachments/assets/f9dab87a-ed66-4384-a8e6-5590367888fb" width="600" height="100"/>
+  
 
 ### HW6
 - Description: This homework involves exploring theoretical concepts in computer vision and deep learning, such as explanation core topics in CNNs and operational mechanisms, gradient issues, parameter calculations, as well a practical tasks like training convolutional networks on the CIFAR10 dataset, applying data augmentation, comparing results using transfer learning with ResNet50, and implementing semantic segmentation using advanced Keras functionalities.
