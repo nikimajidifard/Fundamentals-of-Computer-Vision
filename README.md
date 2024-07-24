@@ -71,10 +71,11 @@ fundamentals of computer vision homework - Spring 2023
 ### HW5
 - Description: This homework covers topics like Local Binary Patterns (LBP) ,shape descriptors ,base deep learning concepts such as activation function differences and CNN-based features,  training and analyzing image classification with simple network in TensorFlow and Keras using the MNIST dataset in both sequential and functional approaches. 
 - [Link to HW5](https://github.com/nikimajidifard/fundamentals-of-computer-vision/tree/main/HW5)
+  
   <img src="https://github.com/user-attachments/assets/97315af7-9500-46f0-a17b-31e56e03dc31" width="150" height="100"/>
   <img src="https://github.com/user-attachments/assets/1c484b2a-b6a9-45f4-8af6-97893fa45d06" width="150" height="100"/>
   <p></p>
-  <img src="https://github.com/user-attachments/assets/f9dab87a-ed66-4384-a8e6-5590367888fb" width="600" height="100"/>
+  <img src="https://github.com/user-attachments/assets/f9dab87a-ed66-4384-a8e6-5590367888fb" width="600" height="200"/>
   
 
 ### HW6
